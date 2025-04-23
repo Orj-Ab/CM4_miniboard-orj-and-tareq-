@@ -2547,6 +2547,7 @@
 	)
 	(label "SCL"
 		(at 106.68 138.43 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2557,6 +2558,7 @@
 	)
 	(label "+5v"
 		(at 162.56 49.53 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 2.0066 2.0066)
@@ -2567,6 +2569,7 @@
 	)
 	(label "SDA"
 		(at 106.68 53.34 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2577,6 +2580,7 @@
 	)
 	(label "SCL"
 		(at 106.68 50.8 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2587,6 +2591,7 @@
 	)
 	(label "GLOBAL_EN"
 		(at 234.95 62.23 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 2.0066 2.0066)
@@ -2597,6 +2602,7 @@
 	)
 	(label "nRTC_INT"
 		(at 104.14 60.96 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2607,6 +2613,7 @@
 	)
 	(label "SDA"
 		(at 106.68 135.89 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2617,6 +2624,7 @@
 	)
 	(label "nRTC_INT"
 		(at 180.34 62.23 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 2.0066 2.0066)
@@ -2627,6 +2635,7 @@
 	)
 	(label "+3.3v"
 		(at 105.41 125.73 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2637,6 +2646,7 @@
 	)
 	(label "+3.3v"
 		(at 106.68 140.97 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2647,6 +2657,7 @@
 	)
 	(label "+3.3v"
 		(at 39.37 44.45 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2658,6 +2669,7 @@
 	(hierarchical_label "+5v"
 		(shape input)
 		(at 161.29 49.53 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 2.0066 2.0066)
@@ -2669,6 +2681,7 @@
 	(hierarchical_label "+3.3v"
 		(shape input)
 		(at 102.87 125.73 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 2.0066 2.0066)
@@ -2680,6 +2693,7 @@
 	(hierarchical_label "+12v"
 		(shape input)
 		(at 160.02 119.38 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 2.0066 2.0066)
@@ -2691,6 +2705,7 @@
 	(hierarchical_label "SCL"
 		(shape input)
 		(at 109.22 50.8 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 2.0066 2.0066)
@@ -2702,6 +2717,7 @@
 	(hierarchical_label "SDA"
 		(shape input)
 		(at 109.22 53.34 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 2.0066 2.0066)
@@ -2713,6 +2729,7 @@
 	(hierarchical_label "GLOBAL_EN"
 		(shape output)
 		(at 252.73 62.23 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 2.0066 2.0066)
